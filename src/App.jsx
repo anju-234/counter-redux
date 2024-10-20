@@ -1,7 +1,7 @@
 
 import './App.css'
 import Counter from './components/Counter'
-import Footer from './components/Footer'
+
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Counter/>
-    <Footer/>  
+    
     </>
   )
 }
